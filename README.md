@@ -1,8 +1,8 @@
-<a href="https://beta.u.is/">
+<a href="https://beta.u.is/?invite=5E3481BA">
   <img src="https://user-images.githubusercontent.com/32198963/65948239-c455d280-e431-11e9-866f-ece3032a9a4b.png" title="Utopia P2P Ecosystem" alt="UtopiaP2PEcosystem">
 </a>
 
-<!-- [![UtopiaP2PEcosystem](https://user-images.githubusercontent.com/32198963/65948239-c455d280-e431-11e9-866f-ece3032a9a4b.png)](https://beta.u.is/) -->
+<!-- [![UtopiaP2PEcosystem](https://user-images.githubusercontent.com/32198963/65948239-c455d280-e431-11e9-866f-ece3032a9a4b.png)](https://beta.u.is/?invite=5E3481BA) -->
 
 # utopia-user-guide
 > A series of tutorials for Utopia decentralized P2P ecosystem
@@ -29,7 +29,7 @@
 
 ## Installation
 
-- Visit [https://beta.u.is/](https://beta.u.is/) and create an account.
+- Visit [https://beta.u.is/](https://beta.u.is/?invite=5E3481BA) and create an account.
 - Login to your account, visit the '[Join Beta](https://beta.u.is/beta/licenses)' page and then click on 'Download'.
 - Select the software version which corresponds to the Operating System of your choice, then download and follow the prompts to install.
 
@@ -39,7 +39,7 @@
 - Once your account is created you will be presented with a public key.
 - Re-visit the '[Join Beta](https://beta.u.is/beta/licenses)' page of the website and select the 'New Activation' button to enter your public key and link your Utopia P2P account with your Utopia beta testing account.
 
-[![AccountCreation](https://user-images.githubusercontent.com/32198963/65949632-7e4e3e00-e434-11e9-9fd0-10f1a2c64b47.gif)](https://beta.u.is/)
+[![AccountCreation](https://user-images.githubusercontent.com/32198963/65949632-7e4e3e00-e434-11e9-9fd0-10f1a2c64b47.gif)](https://beta.u.is/?invite=5E3481BA)
 
 ---
 
